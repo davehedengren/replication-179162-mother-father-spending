@@ -10,6 +10,18 @@
 
 ---
 
+## TLDR
+
+**Replication status**: Near-exact replication. All main coefficients match to the third decimal place (girl: -0.102, momXgirl: +0.132). Sample size matches within 1 observation (6,672 vs 6,673).
+
+**Key finding confirmed**: Fathers spend significantly less on daughters than sons (-0.102 SD), and the mother-daughter interaction is positive and significant (+0.132 SD). This is robust across 13 of 13 specifications for the girl coefficient and 9 of 13 for the interaction.
+
+**Main concern**: The momXgirl interaction is entirely driven by non-incentivized goods (0.185***) and disappears for incentivized goods (0.052, n.s.). Since incentivized goods have real financial stakes, this raises questions about whether the mother-father difference reflects genuine preferences or hypothetical bias. The effect is also concentrated in the baseline wave and weakens in follow-up.
+
+**No coding bugs found.**
+
+---
+
 ## 1. Paper Summary
 
 ### Research Question
